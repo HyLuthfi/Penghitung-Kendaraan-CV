@@ -31,7 +31,7 @@ python Penghitung_Kendaraan.py
 - `Penghitung_Kendaraan.py` — File kode utama (*pipeline* Computer Vision).
 - `traffic_video.mp4` — (Opsional) File video masukan (*input*).
 
-## 📊 Contoh *Output* Log Terminal
+## Contoh *Output* Log Terminal
 Ketika video telah selesai diputar atau dihentikan, terminal akan mencetak laporan komprehensif:
 ```text
  HASIL AKHIR PENGHITUNGAN
